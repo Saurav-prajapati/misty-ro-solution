@@ -1716,3 +1716,8 @@ section,
 .my-float {
   margin-top: 16px;
 }
+
+
+div#loom-companion-mv3 {
+  display: none;
+}
